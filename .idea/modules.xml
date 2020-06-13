@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/h2-database/h2-database.iml" filepath="$PROJECT_DIR$/h2-database/h2-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerranks-problems/hackerranks-problems.iml" filepath="$PROJECT_DIR$/hackerranks-problems/hackerranks-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-threading/java-threading.iml" filepath="$PROJECT_DIR$/java-threading/java-threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning.iml" filepath="$PROJECT_DIR$/learning.iml" />
+    </modules>
+  </component>
+</project>
