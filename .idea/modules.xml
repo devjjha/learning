@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/h2-database/h2-database.iml" filepath="$PROJECT_DIR$/h2-database/h2-database.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerranks-problems/hackerranks-problems.iml" filepath="$PROJECT_DIR$/hackerranks-problems/hackerranks-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-threading/java-threading.iml" filepath="$PROJECT_DIR$/java-threading/java-threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-with-tests/project-with-tests.iml" filepath="$PROJECT_DIR$/project-with-tests/project-with-tests.iml" />
     </modules>
   </component>
 </project>

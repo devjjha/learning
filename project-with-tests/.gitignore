@@ -28,3 +28,5 @@ hs_err_pid*
 out
 out/*
 target/*
+project-with-tests/target
+*.lst
